@@ -1,0 +1,13 @@
+C:\Users\Filip Votek\source\repos\ukol 2 (16.12)\ukol 2 (16.12)\bin\Debug\netcoreapp3.1\ukol 2 (16.12).exe
+C:\Users\Filip Votek\source\repos\ukol 2 (16.12)\ukol 2 (16.12)\bin\Debug\netcoreapp3.1\ukol 2 (16.12).deps.json
+C:\Users\Filip Votek\source\repos\ukol 2 (16.12)\ukol 2 (16.12)\bin\Debug\netcoreapp3.1\ukol 2 (16.12).runtimeconfig.json
+C:\Users\Filip Votek\source\repos\ukol 2 (16.12)\ukol 2 (16.12)\bin\Debug\netcoreapp3.1\ukol 2 (16.12).runtimeconfig.dev.json
+C:\Users\Filip Votek\source\repos\ukol 2 (16.12)\ukol 2 (16.12)\bin\Debug\netcoreapp3.1\ukol 2 (16.12).dll
+C:\Users\Filip Votek\source\repos\ukol 2 (16.12)\ukol 2 (16.12)\bin\Debug\netcoreapp3.1\ukol 2 (16.12).pdb
+C:\Users\Filip Votek\source\repos\ukol 2 (16.12)\ukol 2 (16.12)\obj\Debug\netcoreapp3.1\ukol 2 (16.12).csprojAssemblyReference.cache
+C:\Users\Filip Votek\source\repos\ukol 2 (16.12)\ukol 2 (16.12)\obj\Debug\netcoreapp3.1\ukol 2 (16.12).AssemblyInfoInputs.cache
+C:\Users\Filip Votek\source\repos\ukol 2 (16.12)\ukol 2 (16.12)\obj\Debug\netcoreapp3.1\ukol 2 (16.12).AssemblyInfo.cs
+C:\Users\Filip Votek\source\repos\ukol 2 (16.12)\ukol 2 (16.12)\obj\Debug\netcoreapp3.1\ukol 2 (16.12).csproj.CoreCompileInputs.cache
+C:\Users\Filip Votek\source\repos\ukol 2 (16.12)\ukol 2 (16.12)\obj\Debug\netcoreapp3.1\ukol 2 (16.12).dll
+C:\Users\Filip Votek\source\repos\ukol 2 (16.12)\ukol 2 (16.12)\obj\Debug\netcoreapp3.1\ukol 2 (16.12).pdb
+C:\Users\Filip Votek\source\repos\ukol 2 (16.12)\ukol 2 (16.12)\obj\Debug\netcoreapp3.1\ukol 2 (16.12).genruntimeconfig.cache
